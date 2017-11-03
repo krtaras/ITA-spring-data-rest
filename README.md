@@ -6,6 +6,6 @@ Siple example of spring data rest with MongoBD
 
 To start application run App.java as "Java Application"
 For test please use following URLs: 
-http://localhost:8080/
-http://localhost:8080/users
-http://localhost:8080/product
+* http://localhost:8080/
+* http://localhost:8080/users
+* http://localhost:8080/product
